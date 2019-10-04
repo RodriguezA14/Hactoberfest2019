@@ -46,3 +46,8 @@ Hacktoberfest Classroom Project 2019
 ---
 
 OCTOBAFEEEEEEEEST
+
+### Azriel
+---
+[RodriguezA14](https://github.com/RodriguezA14)
+> If you see this, you are a good lad
