@@ -6,6 +6,7 @@ Hacktoberfest Classroom Project 2019
 2. Edit this file to include your information under "Participants"
 3. Use Markdown to include your name or username, link to your Github Profile, and a programming quote.
 4. Make a pull request
+5. Have fun!
 
 ## Participants
 
